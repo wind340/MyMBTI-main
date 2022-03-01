@@ -12,3 +12,8 @@ github : https://github.com/nani6765/MyMBTI
 ---   
 느낀점이나 작성했던 내용의 필기는 노션에 업로드했습니다.    
 https://jakedevchek.notion.site/Javascript-3-a6782f1eb0dc4d31925c5cc7501d656d
+
+완성된 사이트는 네트리파이로 쉽게 구현을 했습니다. 기존 구성과 완전 같기 때문에
+만들었다는 것만 참고 해주시면 될 것 같습니다.
+
+https://twelvelovetypeclonesite.netlify.app/
